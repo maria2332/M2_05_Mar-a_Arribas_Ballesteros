@@ -1,3 +1,4 @@
+#ejercicio 1
 numero1 = int(input("Introduzca un numero: "))
 numero2 = int(input("Introduzca un numero: "))
 numero3 = int(input("Introduzca un numero: "))
